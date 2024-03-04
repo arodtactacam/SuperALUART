@@ -13,7 +13,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/jacobsa/go-serial/serial"
+	"github.com/ going to put path here"
 )
 
 var appName string
